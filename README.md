@@ -4,5 +4,5 @@
 
 <p>Git Link - https://github.com/Nandhini-2/react-day2-task</p>
 
-<p>Netlify Link - </p>
+<p>Netlify Link - https://endearing-sprite-d5dcc6.netlify.app/</p>
 
