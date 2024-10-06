@@ -1,8 +1,8 @@
-# React + Vite
+<strong>React Day 2 Task</strong>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Price Card Task Using List and Conditional Rendering Concepts. Used Bootstrap for styling.</p>
 
-Currently, two official plugins are available:
+<p>Git Link - https://github.com/Nandhini-2/react-day2-task</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>Netlify Link - </p>
+
